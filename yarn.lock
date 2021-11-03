@@ -1706,10 +1706,10 @@ csstype@^3.0.2:
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-3.0.9.tgz#6410af31b26bd0520933d02cbc64fce9ce3fbf0b"
   integrity sha512-rpw6JPxK6Rfg1zLOYCSwle2GFOOsnjmDYDaBwEcwoOg4qlsIVCN789VkBZDJAGi4T07gI4YSutR43t9Zz4Lzuw==
 
-daisyui@^1.14.4:
-  version "1.14.4"
-  resolved "https://registry.yarnpkg.com/daisyui/-/daisyui-1.14.4.tgz#c7c7ad4c74ace7253b49c103c5076b414ec0c84d"
-  integrity sha512-IfJhEMxG9LtlmJ9ViCGe8Y3PB02IRzqIRYqJS4S1MJPIs2MaQiQMZw3v1baXfmuRCFOyLOfxGbtt+aowS8bBhA==
+daisyui@^1.16.1:
+  version "1.16.1"
+  resolved "https://registry.yarnpkg.com/daisyui/-/daisyui-1.16.1.tgz#0b35d523eebcf1d554ace5c3c1a1d4f3bbc5a6f9"
+  integrity sha512-qt3iKTLJeG3REJ7TcXQjlB/2X6oxG+ksZuQnXPUSJ7kFjVBh0nAmAk15iYUr3jDAr8HZ3SMeuioDLAK1gH8avg==
 
 damerau-levenshtein@^1.0.6:
   version "1.0.7"
@@ -2072,7 +2072,7 @@ eslint-import-resolver-node@^0.3.4, eslint-import-resolver-node@^0.3.6:
     debug "^3.2.7"
     resolve "^1.20.0"
 
-eslint-import-resolver-typescript@^2.4.0:
+eslint-import-resolver-typescript@^2.4.0, eslint-import-resolver-typescript@^2.5.0:
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/eslint-import-resolver-typescript/-/eslint-import-resolver-typescript-2.5.0.tgz#07661966b272d14ba97f597b51e1a588f9722f0a"
   integrity sha512-qZ6e5CFr+I7K4VVhQu3M/9xGv9/YmwsEXrsm3nimw8vWaVHRDrQRp26BgCypTxBp3vUp4o5aVEJRiy0F2DFddQ==
